@@ -1,7 +1,7 @@
 def register_student(name, age, course):
     print("Student Registered Successfully!")
     print("Name:", name)
-    print("Age:", age)
+    print("Student's Age:", age)
     print("Course:", course)
 
 

@@ -13,3 +13,8 @@ A simple application to manage student records.
 - Python
 - Git
 - Linux
+## Project Status
+Currently under development.
+
+## Developer
+Development team
